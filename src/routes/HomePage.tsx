@@ -42,7 +42,7 @@ export default function HomePage() {
         </Link>
         <nav className="top-actions" aria-label={t("home.mainNavigation")}>
           <Link className="quiet-link desktop-link" to="/leaderboard">{t("nav.leaderboard")}</Link>
-          <a className="quiet-link desktop-link" href="/storybook/">{t("nav.storybook")}</a>
+          <a className="quiet-link desktop-link" href={`${import.meta.env.BASE_URL}storybook/`}>{t("nav.storybook")}</a>
           <LanguagePicker />
         </nav>
       </header>
@@ -120,7 +120,7 @@ export default function HomePage() {
 
       <footer className="home-footer">
         <span>STACK ATTACK <span className="footer-separator">·</span> {t("home.friendly")}</span>
-        <a href="/storybook/">{t("nav.storybook")} <span aria-hidden="true">↗</span></a>
+        <a href={`${import.meta.env.BASE_URL}storybook/`}>{t("nav.storybook")} <span aria-hidden="true">↗</span></a>
       </footer>
     </main>
   );

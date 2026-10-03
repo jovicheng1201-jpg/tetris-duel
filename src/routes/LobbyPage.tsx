@@ -98,7 +98,7 @@ export default function LobbyPage() {
         {message && <p className="lobby-error" role="alert">{message}</p>}
         <p className="casual-caption">{t("leaderboard.unverified")}</p>
       </section>
-      <footer className="home-footer"><span>STACK ATTACK · {t("game.casual")}</span><a href="/storybook/">{t("nav.storybook")} ↗</a></footer>
+      <footer className="home-footer"><span>STACK ATTACK · {t("game.casual")}</span><a href={`${import.meta.env.BASE_URL}storybook/`}>{t("nav.storybook")} ↗</a></footer>
     </main>
   );
 }

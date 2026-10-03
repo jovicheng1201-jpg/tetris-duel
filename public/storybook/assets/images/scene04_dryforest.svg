@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Dry forest</title><desc id="desc">Milo and Puff notice thirsty animals, drooping flowers, and a quiet stream.</desc>
+  <rect width="1600" height="1000" fill="#f7d98d"/><path d="M0 500 Q250 350 490 520 T980 500 T1600 470 V1000 H0Z" fill="#c49d62"/>
+  <path d="M0 790 Q370 690 760 810 T1600 760 V1000 H0Z" fill="#9f8458"/><path d="M240 770 Q700 720 1180 790" fill="none" stroke="#bcd5cd" stroke-width="34" opacity=".6"/>
+  <path d="M160 0 Q190 270 160 600 M1360 0 Q1320 240 1370 620" stroke="#805b45" stroke-width="70" fill="none"/>
+  <g transform="translate(610 280) scale(.6)"><ellipse cx="180" cy="300" rx="155" ry="110" fill="#e77b4f"/><path d="M70 230 L65 30 L155 105 L235 55 L300 235Z" fill="#e77b4f"/><ellipse cx="185" cy="175" rx="86" ry="72" fill="#fff0d2"/><path d="M80 235 Q180 270 280 235" fill="none" stroke="#5a9b70" stroke-width="28"/></g>
+  <path d="M930 210 C970 150 1060 160 1090 215 C1160 185 1240 245 1215 305 C1270 350 1210 410 1140 400 H930 C860 390 860 275 930 270Z" fill="#fffdf6" stroke="#c8e1eb" stroke-width="12"/>
+  <g fill="#d78370"><path d="M400 780 q20-110 40 0Z"/><path d="M520 800 q20-125 40 0Z"/><path d="M650 785 q20-90 40 0Z"/></g>
+</svg>

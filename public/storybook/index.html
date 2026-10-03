@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Milo and the Little Cloud, an interactive children's story game." />
+    <title>Milo and the Little Cloud</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <a class="brand" href="#" id="brand-link" aria-label="Go to the start screen">
+          <span class="brand-mark" aria-hidden="true">☁</span>
+          <span data-i18n="brand">Milo's Little Cloud</span>
+        </a>
+        <div class="top-actions">
+          <label class="language-picker" for="language-select">
+            <span class="sr-only" data-i18n="languageLabel">Language</span>
+            <select id="language-select" aria-label="Language">
+              <option value="en">English</option>
+              <option value="zh-TW">繁體中文</option>
+            </select>
+          </label>
+          <button class="icon-button" id="restart-button" type="button" data-i18n-title="restart" title="Restart">↻</button>
+        </div>
+      </header>
+
+      <section class="progress-area" aria-label="Story progress">
+        <div class="progress-meta">
+          <span id="progress-label">1 / 7</span>
+          <span id="progress-caption" data-i18n="progressCaption">Story path</span>
+        </div>
+        <div class="progress-track" aria-hidden="true"><span id="progress-fill"></span></div>
+      </section>
+
+      <section class="story-card" aria-live="polite">
+        <div class="art-frame">
+          <img id="scene-image" src="assets/images/cover.svg" alt="Milo looks up at Puff above the forest" />
+          <span class="scene-badge" id="scene-badge">1</span>
+        </div>
+        <div class="story-copy">
+          <p class="eyebrow" id="story-kicker">A story about friendship</p>
+          <h1 id="story-title">Milo and the Little Cloud</h1>
+          <p class="story-text" id="story-text"></p>
+          <div class="guide-note" id="guide-note">
+            <div class="guide-avatar" aria-hidden="true">明</div>
+            <p id="guide-text"></p>
+          </div>
+          <div class="choices" id="choices" role="group" aria-label="Story choices"></div>
+          <div class="story-actions">
+            <button class="secondary-button" id="back-button" type="button" data-i18n="back">Back</button>
+            <button class="primary-button" id="next-button" type="button" data-i18n="begin">Begin the story</button>
+          </div>
+        </div>
+      </section>
+
+      <footer class="footer-note">
+        <span data-i18n="footer">Read, choose, and help the forest bloom.</span>
+        <span aria-hidden="true">✦</span>
+      </footer>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>

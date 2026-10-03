@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Welcome to Whispering Woods</title><desc id="desc">Milo and Puff welcome a new little cloud above a bright forest path.</desc>
+  <rect width="1600" height="1000" fill="#cbe9d7"/><circle cx="1240" cy="160" r="95" fill="#fff1a8"/>
+  <path d="M0 620 Q300 500 640 650 T1300 610 T1600 640 V1000 H0Z" fill="#75a875"/><path d="M690 1000 Q800 800 900 620 Q1000 800 1140 1000Z" fill="#d5b77a"/>
+  <path d="M690 220 C735 155 820 165 850 220 C920 185 1000 240 975 295 C1020 335 980 395 915 385 H690 C625 375 625 270 690 260Z" fill="#fffdf6" stroke="#c8e1eb" stroke-width="12"/>
+  <path d="M1040 290 C1080 240 1150 245 1180 290 C1230 265 1300 310 1280 350 C1320 390 1280 435 1230 430 H1040 C990 420 990 325 1040 320Z" fill="#fffdf6" stroke="#c8e1eb" stroke-width="12"/>
+  <g transform="translate(560 630) scale(.5)"><ellipse cx="180" cy="300" rx="155" ry="110" fill="#e77b4f"/><path d="M70 230 L65 30 L155 105 L235 55 L300 235Z" fill="#e77b4f"/><ellipse cx="185" cy="175" rx="86" ry="72" fill="#fff0d2"/><path d="M80 235 Q180 270 280 235" fill="none" stroke="#5a9b70" stroke-width="28"/></g>
+  <path d="M1070 600 l-20 100 M1160 600 l25 100" stroke="#65bde0" stroke-width="16" stroke-linecap="round"/>
+</svg>

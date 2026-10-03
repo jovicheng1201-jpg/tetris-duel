@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Puff meets the big clouds</title><desc id="desc">Friendly dragon and ship shaped clouds slow down to welcome Puff.</desc>
+  <rect width="1600" height="1000" fill="#bfe8f5"/><path d="M0 720 Q350 580 770 730 T1600 680 V1000 H0Z" fill="#6f9f70"/>
+  <path d="M230 260 C270 170 420 160 480 250 C570 180 700 250 680 350 C750 420 680 500 570 480 H280 C170 460 150 340 230 260Z" fill="#fffdf6" stroke="#c8e1eb" stroke-width="14"/>
+  <path d="M940 300 C1000 210 1100 225 1160 300 L1330 300 C1400 300 1450 350 1430 405 C1410 455 1350 470 1290 460 L1000 460 C910 450 880 370 940 300Z" fill="#fffdf6" stroke="#c8e1eb" stroke-width="14"/>
+  <path d="M650 470 C690 410 775 415 805 465 C870 435 940 485 920 540 C965 580 920 635 865 630 H650 C585 620 585 505 650 500Z" fill="#fffdf6" stroke="#c8e1eb" stroke-width="12"/>
+  <circle cx="740" cy="520" r="13" fill="#334c5c"/><circle cx="835" cy="520" r="13" fill="#334c5c"/><path d="M770 555 Q790 575 815 555" fill="none" stroke="#334c5c" stroke-width="8"/>
+  <g transform="translate(690 690) scale(.42)"><ellipse cx="180" cy="300" rx="155" ry="110" fill="#e77b4f"/><path d="M70 230 L65 30 L155 105 L235 55 L300 235Z" fill="#e77b4f"/><ellipse cx="185" cy="175" rx="86" ry="72" fill="#fff0d2"/><path d="M80 235 Q180 270 280 235" fill="none" stroke="#5a9b70" stroke-width="28"/></g>
+</svg>

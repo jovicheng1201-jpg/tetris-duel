@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Milo placeholder</title><desc id="desc">A cheerful orange fox with a green scarf and brown backpack.</desc>
+  <rect width="800" height="800" rx="48" fill="#fff3d4"/>
+  <ellipse cx="390" cy="580" rx="190" ry="130" fill="#e77b4f"/>
+  <path d="M235 460 L220 150 L345 260 L470 175 L550 470Z" fill="#e77b4f"/>
+  <path d="M235 180 L345 260 L250 300Z" fill="#f7c2a0"/><path d="M470 210 L520 290 L425 265Z" fill="#f7c2a0"/>
+  <ellipse cx="390" cy="360" rx="118" ry="95" fill="#fff0d2"/>
+  <circle cx="345" cy="335" r="18" fill="#513b32"/><circle cx="435" cy="335" r="18" fill="#513b32"/>
+  <path d="M370 400 Q390 420 415 400" fill="none" stroke="#513b32" stroke-width="12" stroke-linecap="round"/>
+  <path d="M250 600 Q110 520 150 420 Q290 465 315 620Z" fill="#e77b4f"/><path d="M155 425 Q210 470 270 570" fill="none" stroke="#fffdf6" stroke-width="38" stroke-linecap="round"/>
+  <path d="M255 495 Q390 545 525 495" fill="none" stroke="#5a9b70" stroke-width="34"/>
+  <rect x="500" y="470" width="78" height="150" rx="24" fill="#8f5d45"/>
+</svg>

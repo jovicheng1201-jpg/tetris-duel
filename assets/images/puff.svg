@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" role="img" aria-labelledby="title desc">
+  <title id="title">Puff placeholder</title><desc id="desc">A tiny round white cloud with kind dark eyes and a small smile.</desc>
+  <rect width="800" height="800" rx="48" fill="#dff4fb"/>
+  <path d="M170 450 C105 385 145 285 240 285 C260 175 410 155 470 255 C570 205 680 285 635 390 C700 450 635 545 540 535 H250 C145 550 95 480 170 450Z" fill="#fffdf6" stroke="#c8e1eb" stroke-width="16"/>
+  <ellipse cx="330" cy="385" rx="22" ry="28" fill="#334c5c"/><ellipse cx="490" cy="385" rx="22" ry="28" fill="#334c5c"/>
+  <path d="M380 445 Q410 468 440 445" fill="none" stroke="#334c5c" stroke-width="12" stroke-linecap="round"/>
+  <path d="M268 315 Q330 250 395 275" fill="none" stroke="#e9f4f8" stroke-width="24" stroke-linecap="round" opacity=".9"/>
+</svg>

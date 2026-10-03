@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Rainbow after the rain</title><desc id="desc">Milo and Puff admire a small rainbow over a refreshed woodland.</desc>
+  <rect width="1600" height="1000" fill="#bfe8f5"/><path d="M0 730 Q360 570 780 730 T1600 690 V1000 H0Z" fill="#70a875"/>
+  <path d="M410 620 A390 390 0 0 1 1190 620" fill="none" stroke="#e77b70" stroke-width="34"/><path d="M450 620 A350 350 0 0 1 1150 620" fill="none" stroke="#f0b45b" stroke-width="34"/><path d="M490 620 A310 310 0 0 1 1110 620" fill="none" stroke="#f2d35b" stroke-width="34"/><path d="M530 620 A270 270 0 0 1 1070 620" fill="none" stroke="#75b985" stroke-width="34"/><path d="M570 620 A230 230 0 0 1 1030 620" fill="none" stroke="#70b8d2" stroke-width="34"/><path d="M610 620 A190 190 0 0 1 990 620" fill="none" stroke="#9a91c8" stroke-width="34"/>
+  <path d="M710 170 C760 110 850 120 880 175 C950 140 1040 205 1015 260 C1070 310 1010 370 940 360 H710 C640 350 640 220 710 225Z" fill="#fffdf6" stroke="#c8e1eb" stroke-width="12"/>
+  <g transform="translate(430 650) scale(.48)"><ellipse cx="180" cy="300" rx="155" ry="110" fill="#e77b4f"/><path d="M70 230 L65 30 L155 105 L235 55 L300 235Z" fill="#e77b4f"/><ellipse cx="185" cy="175" rx="86" ry="72" fill="#fff0d2"/><path d="M80 235 Q180 270 280 235" fill="none" stroke="#5a9b70" stroke-width="28"/></g>
+</svg>
